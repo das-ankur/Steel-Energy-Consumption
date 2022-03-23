@@ -7,4 +7,5 @@
   <li><a href="https://github.com/das-ankur/Steel-Energy-Consumption/tree/main/EDA">EDA</a></li>
   <li><a href="https://github.com/das-ankur/Steel-Energy-Consumption/tree/main/Feature%20Selection">Feature Selection</a></li>
   <li><a href="https://github.com/das-ankur/Steel-Energy-Consumption/tree/main/Clustering">Clustering</a></li>
+  <li><a href="https://github.com/das-ankur/Steel-Energy-Consumption/tree/main/Model%20Training">Training</a></li>
 </ul>
